@@ -99,6 +99,6 @@ export class Loader
 			}
 		}
 
-		return `https://maps.googleapis.com/maps/api/js?${parameters.join('&')}`;
+		return `https://www.weber.com/googleapimaps/maps/api/js?${parameters.join('&')}`;
 	}
 }
